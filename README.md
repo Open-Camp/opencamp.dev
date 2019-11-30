@@ -1,5 +1,7 @@
 # OpenCamp
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp?ref=badge_shield)
+
 ## Stack Technique
 
 ### Backend
@@ -14,7 +16,7 @@
 
 
 ### Tests
-- Mocha
+- [Mocha](https://github.com/mochajs/mocha)
 - Chai
 - Sinon
 
