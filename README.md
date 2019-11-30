@@ -1,6 +1,6 @@
 # OpenCamp
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp?ref=badge_shield)
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp?ref=badge_shield)
 
 ## Stack Technique
 
