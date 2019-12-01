@@ -11,21 +11,27 @@
 
 ## Stack Technique
 
-### Backend
-- Node JS
-- Express JS
-- PotsgreSQL
-- Git-Flow
-
-### Frontend
-- Sass (Architecture 7-1)
-- Framework Front (à définir)
-
-
-### Tests
-- [Mocha](https://github.com/mochajs/mocha)
-- Chai
-- Sinon
+  stack validé :
+  - Global : 
+    - Typescript
+    - git-flow
+  - Front : 
+    - No CSS Framework
+    - SASS + 7.1 pattern + BEM
+  - Back : 
+    - nodeJS
+    - Express
+    - Postgresql + Sequelize
+  
+  stack provisoire : 
+  - Global :
+    - heroku
+    - Mocha / Jest 
+  - Front : 
+    - Vuejs / Svelte
+    - NuxtJS
+  - Back :
+    - 
 
 ## License
 
