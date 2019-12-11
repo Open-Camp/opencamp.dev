@@ -15,16 +15,15 @@
 -   **Global**
     -   Typescript
     -   git-flow
-    
+
 -   **Front**
     -   No CSS Framework
-    
+
 -   **Back**
     -   nodeJS
     -   Express
     -   Postgresql + Sequelize
-    
-    
+
 -   **Test**
     -   Mocha
     -   Chai
