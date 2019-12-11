@@ -9,8 +9,6 @@
   [Stack Technique](#stack-technique)
   [License](#license)
 
-
-
 ## Stack Technique
 
 ### Stack validé :
