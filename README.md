@@ -13,8 +13,8 @@
 
 ### Stack validé
   - **Global**
-    Typescript
-    git-flow
+      Typescript
+      git-flow
   - **Front**
     - No CSS Framework
     - SASS + 7.1 pattern + BEM
