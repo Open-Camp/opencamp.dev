@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-* [Stack Technique](#stack-technique)
-* [License](#license)
+  [Stack Technique](#stack-technique)
+  [License](#license)
 
 
 
