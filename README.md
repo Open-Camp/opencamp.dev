@@ -3,6 +3,7 @@
 ![Open Camp Logo](img/opencamp-logo-m.png)
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpen-Camp%2FOpenCamp?ref=badge_shield)
+ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/33652e1253974a779b7278045cb59b4b)](https://www.codacy.com/gh/Open-Camp/OpenCamp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Open-Camp/OpenCamp&amp;utm_campaign=Badge_Grade)
 
 ## Table of Contents
 
