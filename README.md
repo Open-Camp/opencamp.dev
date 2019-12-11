@@ -6,30 +6,30 @@
 
 ## Table of Contents
 
-  [Stack Technique](#stack-technique)
-  [License](#license)
+-   [Stack Technique](#stack-technique)
+-   [License](#license)
 
 ## Stack Technique
 
 ### Stack validé
 -   **Global**
-    - Typescript
-    - git-flow
+    -   Typescript
+    -   git-flow
 -   **Front**
-    - No CSS Framework
+    -   No CSS Framework
 -   **Back**
-    - nodeJS
-    - Express
-    - Postgresql + Sequelize
+    -   nodeJS
+    -   Express
+    -   Postgresql + Sequelize
 -   **Test**
-    - Mocha
-    - Chai
-    - Istanbul
+    -   Mocha
+    -   Chai
+    -   Istanbul
   
 ### Stack provisoire 
 -   **Front** : 
-    - Vuejs / Svelte
-    - NuxtJS
+    -   Vuejs / Svelte
+    -   NuxtJS
 
 ## License
 
