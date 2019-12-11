@@ -11,18 +11,18 @@
 
 ## Stack Technique
 
-### Stack validé :
-  - **Global** : 
-    - Typescript
-    - git-flow
-  - **Front** : 
+### Stack validé
+  - **Global**
+    Typescript
+    git-flow
+  - **Front**
     - No CSS Framework
     - SASS + 7.1 pattern + BEM
-  - **Back** : 
+  - **Back**
     - nodeJS
     - Express
     - Postgresql + Sequelize
-  - **Test** : 
+  - **Test**
     - Mocha
     - Chai
     - Istanbul
