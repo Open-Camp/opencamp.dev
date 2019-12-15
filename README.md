@@ -32,7 +32,7 @@
   
 ### Stack provisoire 
 -   **Front** : 
-    -   Vuejs / Svelte
+    -   Vuejs
     -   NuxtJS
 
 ## License
